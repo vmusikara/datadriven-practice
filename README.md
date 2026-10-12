@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sharp_zenith_9156), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Both Ways](./practice/sql/both-ways) | SQL | Hard | 2026-09-19 |
 | [Roll Call](./practice/sql/roll-call) | SQL | Easy | 2026-09-19 |
 | [The Footprint](./practice/sql/the-footprint) | SQL | Medium | 2026-07-03 |
 | [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-07-03 |
